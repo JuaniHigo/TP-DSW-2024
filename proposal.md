@@ -2,7 +2,8 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 48453 Mercado, Martin.
+* 49951 Higonet, Juan Ignacio
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -11,7 +12,8 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+La pagina "nombre" se dedica a la venta de entradas online a eventos deportivos de Futbol en la ciudad de Rosario. El sitio web recibe de cada club una lista de Socios habilitados para la compra de entradas. Dedica servicios de venta y administracion a cualquier persona que quiera asistit a un evento de cualquier equipo de Futbol de la ciudad de Rosario. 
+   "nombre" trabaja con los clubes Rosario Central, Newells Old Boys, Argentino de Rosario y Central Cordoba. 
 
 ### Modelo
 ![imagen del modelo]()
@@ -19,15 +21,16 @@
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
-
+Desde que el Socio inicia sesion hasta que se registra la venta del ticket deportivo en el historial de ventas. 
+ 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
+
 
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
+|CRUD simple|1. CRUD <br>2. CRUD Servicio<br>3. CRUD Localidad|
 |CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
 |Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
