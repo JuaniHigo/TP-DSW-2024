@@ -16,7 +16,7 @@ La pagina "nombre" se dedica a la venta de entradas online a eventos deportivos 
    "nombre" trabaja con los clubes Rosario Central, Newells Old Boys, Argentino de Rosario y Central Cordoba. 
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](https://github.com/JuaniHigo/TP-DSW-2024/blob/main/Proyecto%20DSW/Imagenes/Modelo%20de%20Dominio%20DSW.drawio.png)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
