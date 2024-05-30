@@ -18,7 +18,6 @@ La pagina "nombre" se dedica a la venta de entradas online a eventos deportivos 
 ### Modelo
 ![imagen del modelo](https://github.com/JuaniHigo/TP-DSW-2024/blob/main/Proyecto%20DSW/Imagenes/Modelo%20de%20Dominio%20DSW.drawio.png)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 Desde que el Socio inicia sesion hasta que se registra la venta del ticket deportivo en el historial de ventas. 
