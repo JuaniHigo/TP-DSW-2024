@@ -8,7 +8,7 @@
 ### Repositorios
 * [frontend app]([http://hyperlinkToGihubOrGitlab](https://github.com/JuaniHigo/TP-DSW-2024/tree/main/Proyecto%20DSW/FrontEND)
 * [backend app](https://github.com/JuaniHigo/TP-DSW-2024/tree/main/Proyecto%20DSW/BackEND)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+
 
 ## Tema
 ### Descripción
