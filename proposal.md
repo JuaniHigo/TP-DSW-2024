@@ -6,7 +6,7 @@
 * 49951 Higonet, Juan Ignacio
 
 ### Repositorios
-* [frontend app]([http://hyperlinkToGihubOrGitlab](https://github.com/JuaniHigo/TP-DSW-2024/tree/main/Proyecto%20DSW/FrontEND)
+* [frontend app](https://github.com/JuaniHigo/TP-DSW-2024/tree/main/Proyecto%20DSW/FrontEND)
 * [backend app](https://github.com/JuaniHigo/TP-DSW-2024/tree/main/Proyecto%20DSW/BackEND)
 
 
