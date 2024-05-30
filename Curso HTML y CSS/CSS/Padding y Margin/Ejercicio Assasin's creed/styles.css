@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+.card{
+    background-color: coral;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+h1{
+    padding-top: 10px;
+    font-size: 22px;
+}
+h2{
+    font-size: 18px;
+    font-weight: lighter;
+    font-style: oblique;
+    letter-spacing: 5px;
+}
+p{
+    font-size: small;
+    background-color: yellow;
+    text-align: middle;
+}
